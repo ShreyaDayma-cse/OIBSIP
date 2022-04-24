@@ -41,7 +41,7 @@ public class ATM_Interface {
                         break;
 
                     case 3:
-                        System.out.println("Enter the Account number:");
+                        System.out.println("Enter the Account number in which money is to be transferred:");
                         int s = sc.nextInt();
                         System.out.println("Enter the amount to be transferred:");
                         int a = sc.nextInt();
